@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E09C6E4F-9527-4631-B9E8-C6AA603A8723</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE67490C1497581BF7A019D46EB4C8F49A8E7FE2</key>
+		<string>github.com:roidriscoll/poopr.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Poopr/Poopr.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE67490C1497581BF7A019D46EB4C8F49A8E7FE2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:roidriscoll/poopr.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE67490C1497581BF7A019D46EB4C8F49A8E7FE2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE67490C1497581BF7A019D46EB4C8F49A8E7FE2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>poopr</string>
+		</dict>
+	</array>
+</dict>
+</plist>
